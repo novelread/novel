@@ -1,5 +1,3 @@
-<local>
-0.0.0.0/0
 *.dev
 *bj*.*
 *51*.*
@@ -1422,7 +1420,6 @@
 *blogcdn.com
 *blogchina.com
 *blogcn.com
-*blogger.com
 *blogjava.net
 *blshe.com
 *blue1000.com
