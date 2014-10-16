@@ -1,6 +1,3 @@
-<local>
-192.168/16
-0.0.0.0/0
 .0-6.com
 .000dn.com
 .000wan.com
@@ -270,6 +267,7 @@
 .263.com
 .263.net
 .263em.com
+.263xmail.com
 .265.com
 .26552.com
 .265g.com
@@ -446,6 +444,7 @@
 .50bang.org
 .50mk.com
 .50qyy.com
+.51*.*
 .51.com
 .51.la
 .510173.net
@@ -794,6 +793,7 @@
 .90he.com
 .90hu.com
 .90qh.com
+.91*.*
 .91.com
 .910game.com
 .911cha.com
@@ -1013,6 +1013,7 @@
 .akajia.com
 .akdy.com
 .albinworld.com
+.ali*.*
 .ali213.net
 .aliapp.com
 .alibaba-inc.com
@@ -1058,7 +1059,6 @@
 .amap.com
 .amazingstore.org
 .amazon.com
-.amazonaws.com
 .ambafrance-cn.org
 .amex-cmb.com
 .amgbs.com
@@ -1375,6 +1375,7 @@
 .bitbao.com
 .bitscn.com
 .bityx.com
+.bj*.*
 .bjbahao.com
 .bjbtg.net
 .bjbus.com
@@ -1657,6 +1658,7 @@
 .chexie.net
 .chexun.net
 .cheyisou.com
+.china*.*
 .china-10.com
 .china-315.com
 .china-consulate.org
@@ -1831,7 +1833,6 @@
 .climbing.nl
 .cloudbbs.org
 .cloudcdn.net
-.cloudfront.net
 .cm-analysis.com
 .cmbchina.com
 .cmdn.net
@@ -1841,6 +1842,8 @@
 .cmguocai.com
 .cmidc.com
 .cmread.com
+.cn
+.cn*.*
 .cn-athena.com
 .cn-camera.com
 .cn020.com
@@ -2132,6 +2135,7 @@
 .deppon.com
 .designtotalk.com
 .desk8.org
+.dev
 .devdiv.com
 .devexpresscn.com
 .deviantart.net
@@ -2382,6 +2386,7 @@
 .ed2king.com
 .eda365.com
 .edancing.net
+.edgesuite.net
 .edm-tracking.com
 .ednchina.com
 .edodocs.com
@@ -2565,6 +2570,8 @@
 .fei580.net
 .feichang.com
 .feidee.com
+.feifei.cn
+.feifei.com
 .feifeicms.com
 .feikong.tv
 .feiliks.com
@@ -2615,7 +2622,6 @@
 .flash3.net
 .flash45.com
 .flash8.net
-.flipboard.com
 .fltacn.com
 .fltrp.com
 .flurry.com
@@ -4411,7 +4417,6 @@
 .mxwz.com
 .my-dahon.com
 .my-graphics.net
-.my.cl.ly
 .my0511.com
 .my147.com
 .my399.com
@@ -5319,12 +5324,15 @@
 .simplecd.org
 .simpleframework.net
 .sin114.com
+.sina.cn
 .sina.com
 .sina.net
 .sinaapp.com
 .sinacdn.com
 .sinaedge.com
+.sinaimg.cn
 .sinaimg.com
+.sinajs.cn
 .sinashow.com
 .sinastorage.com
 .sinasws.com
@@ -5465,6 +5473,7 @@
 .startssl.com
 .starwoodhotels.com
 .static-cisco.com
+.staticfile.org
 .statickksmg.com
 .staticsdo.com
 .staybridge.com
@@ -6406,6 +6415,7 @@
 .xiamentd.com
 .xiami.com
 .xiami.net
+.xiang.mu
 .xiangshenghang.com
 .xiangshu.com
 .xianguo.com
@@ -6735,6 +6745,7 @@
 .yong9.net
 .yongv.com
 .yongyibook.com
+.yooli.com
 .yoostrip.com
 .yoox.biz
 .yoqoo.com
@@ -6851,6 +6862,7 @@
 .yzzj.net
 .yzzyup.com
 .z-fan.com
+.z.cn
 .z0d.eu
 .zaifan.com
 .zaiju.com
@@ -7066,5 +7078,38 @@
 .zz-bike.com
 .zzhtm.com
 .zzidc.com
-.feifei.com
-.yooli.com
+0.0.0.0/0
+113.107/16
+117.27/16
+127.0.0.1
+192.168/16
+<local>
+localhost
+.073.cc
+.25.io
+.263mail.com
+.476.cc
+.8comic.com
+.acgdb.com
+.acggate.net
+.alipaydev.com
+.amazon.cn
+.cnpmjs.org
+.com.cn
+.comicvip.com
+.ess.apple.com
+.globalmarket.com
+.ikang.com
+.ishuhui.com
+.jnupress.com
+.lagou.com
+.pic4tuku.cc
+.poco.cn
+.simcity.com
+.tbcdn.cn
+.tuku.cc
+.vip.com
+.vlook.cn
+.wangyin.com
+.wwdy.net
+.yhd.com
