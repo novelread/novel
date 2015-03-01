@@ -56,6 +56,7 @@
 .07073.com
 .0713hb.com
 .071711.com
+.073.cc
 .0737mp.com
 .075501.com
 .0817cg.com
@@ -260,6 +261,7 @@
 .24quan.com
 .24wind.com
 .24wu.com
+.25.io
 .2500sz.com
 .2529.com
 .25pp.com
@@ -267,6 +269,7 @@
 .263.com
 .263.net
 .263em.com
+.263mail.com
 .263xmail.com
 .265.com
 .26552.com
@@ -423,6 +426,7 @@
 .46461.com
 .46535.com
 .4738.com
+.476.cc
 .4816.com
 .4891ko.com
 .4933.com
@@ -779,6 +783,7 @@
 .89qw.com
 .8box.com
 .8chuang.com
+.8comic.com
 .8da.com
 .8dulm.com
 .8edy.com
@@ -915,6 +920,8 @@
 .acfun.tv
 .acg.tv
 .acg7.com
+.acgdb.com
+.acggate.net
 .acgvideo.com
 .acs.org
 .acs86.com
@@ -1034,6 +1041,7 @@
 .alimenhu.com
 .alimiaopu.com
 .alipay.com
+.alipaydev.com
 .alipayobjects.com
 .alisoft.com
 .aliued.com
@@ -1058,7 +1066,7 @@
 .amaomb.com
 .amap.com
 .amazingstore.org
-.amazon.com
+.amazon.cn
 .ambafrance-cn.org
 .amex-cmb.com
 .amgbs.com
@@ -1356,6 +1364,7 @@
 .bikesky.com
 .biketo.com
 .biketo.org
+.bilibili.com
 .bilibili.tv
 .billwang.net
 .bing.com
@@ -1834,6 +1843,7 @@
 .cloudbbs.org
 .cloudcdn.net
 .cm-analysis.com
+.cmbc.com.cn
 .cmbchina.com
 .cmdn.net
 .cmfchina.com
@@ -1901,6 +1911,7 @@
 .cnodejs.org
 .cnool.net
 .cnphotos.net
+.cnpmjs.org
 .cnproxy.com
 .cnrdn.com
 .cnrepair.com
@@ -1939,8 +1950,10 @@
 .colafile.com
 .colorweekly.com
 .colourhill.com
+.com.cn
 .com.com
 .com.sg
+.comicvip.com
 .comicyu.com
 .communicatte.com
 .comodoca.com
@@ -2104,6 +2117,7 @@
 .dazhu.org
 .db9db.com
 .dbank.com
+.dbmeizi.com
 .dbs01.net
 .dd.ma
 .dd399.com
@@ -2490,6 +2504,7 @@
 .eshufa.com
 .esm-cn.com
 .esqimg.com
+.ess.apple.com
 .essaydata.com
 .essxd.com
 .estrongs.com
@@ -2776,6 +2791,7 @@
 .gengrenjie.com
 .geotrust.com
 .getbbs.com
+.getmicrosoftkey.com
 .getqujing.com
 .gewara.com
 .gezbox.com
@@ -2811,6 +2827,7 @@
 .gkxx.com
 .gkz6.net
 .glinfo.com
+.globalmarket.com
 .globalmi.com
 .glzy8.com
 .gmgc.info
@@ -3041,6 +3058,7 @@
 .henhaoji.com
 .hermes.com
 .heroworld.net
+.hexieshe.com
 .hexun.com
 .heyix.com
 .hf365.com
@@ -3342,6 +3360,7 @@
 .ijinshan.com
 .ik22.com
 .ikafan.com
+.ikang.com
 .ikangjia.com
 .ikea.com
 .ikeepu.com
@@ -3423,6 +3442,7 @@
 .iosinspires.me
 .iouter.com
 .ip-v6.eu
+.ip.cn
 .ip0722.com
 .ip138.com
 .ipaddh.com
@@ -3456,6 +3476,7 @@
 .is97.com
 .iseeclan.com
 .ishowtu.com
+.ishuhui.com
 .ishwap.com
 .ishzx.com
 .iskytree.net
@@ -3626,6 +3647,7 @@
 .jmvod.com
 .jmydm.com
 .jnmama.com
+.jnupress.com
 .job1001.com
 .job5156.com
 .job592.com
@@ -3799,6 +3821,7 @@
 .kfcyouhui.com
 .kgemi.com
 .kgkx.com
+.kibey.com
 .kidcomic.net
 .killman.net
 .kimiss.com
@@ -3901,6 +3924,7 @@
 .lady8844.com
 .lafaso.com
 .laferrari.com
+.lagou.com
 .laidianduo.com
 .laidingba.com
 .laiercn.com
@@ -4266,6 +4290,7 @@
 .meituan.net
 .meitudata.com
 .meiyoubanfa.net
+.meizhi.im
 .meizu.com
 .meizu.net
 .memail.net
@@ -4336,6 +4361,7 @@
 .mjoys.com
 .ml90.com
 .mlt01.com
+.mm111.net
 .mmbang.com
 .mmbang.info
 .mmdmn.com
@@ -4386,6 +4412,7 @@
 .moviemore.com
 .movshow.com
 .moxtra.com
+.mozilla.net
 .mozilla.org
 .mpdaogou.com
 .mphzp.com
@@ -4780,6 +4807,7 @@
 .piaoliang.com
 .piaowudawang.com
 .pic16.com
+.pic4tuku.cc
 .pic9382.com
 .picidc.com
 .piemoment.com
@@ -4822,7 +4850,9 @@
 .po-soft.com
 .pocc.cc
 .pocketres.com
+.poco.cn
 .poluoluo.com
+.polyfill.io
 .pomoho.com
 .pooway.com
 .pop-fashion.com
@@ -4875,6 +4905,8 @@
 .ptshow.net
 .puata.info
 .pubsage.com
+.pubu.im
+.pubu.io
 .pudn.com
 .pudongstamps.com
 .pulog.org
@@ -4906,6 +4938,7 @@
 .qcxz.net
 .qcydia.com
 .qd-mh.com
+.qdan.me
 .qdcdn.com
 .qdit.com
 .qdmama.net
@@ -5320,6 +5353,7 @@
 .sijimishu.com
 .siluhd.com
 .silverlightchina.net
+.simcity.com
 .simplecd.org
 .simpleframework.net
 .sin114.com
@@ -5619,6 +5653,7 @@
 .taskcity.com
 .taskcn.com
 .tb210.com
+.tbcdn.cn
 .tbhelper.com
 .tbhui.com
 .tbjfw.com
@@ -5634,6 +5669,7 @@
 .tduanzi.com
 .tdzyw.com
 .teachercn.com
+.teambition.com
 .teapic.com
 .tech-ex.com
 .tech-food.com
@@ -5856,6 +5892,7 @@
 .tujia.com
 .tujiazu.org
 .tukeq.com
+.tuku.cc
 .tuku.com
 .tulezijia.com
 .tuniu.com
@@ -5937,6 +5974,7 @@
 .uisdc.com
 .ujian.cc
 .ulink.cc
+.um5.cc
 .umei.cc
 .umeng.com
 .umetrip.com
@@ -6043,6 +6081,7 @@
 .victorykingdom.com
 .viglink.com
 .vijos.org
+.vip.com
 .vipcareer.com
 .vipcnzz.com
 .vips100.com
@@ -6060,6 +6099,7 @@
 .vjianke.com
 .vlcchina.org
 .vlongbiz.com
+.vlook.cn
 .vlss.com
 .vmall.com
 .vmanhua.com
@@ -6125,6 +6165,7 @@
 .wangxingcs.com
 .wangyan.org
 .wangyeba.com
+.wangyin.com
 .wangyueblog.com
 .wangyuehd.com
 .wangzhi800.com
@@ -6358,6 +6399,7 @@
 .wuyou.la
 .wuyou.net
 .wuyoumobile.com
+.wwdy.net
 .wwfchina.org
 .wwping.com
 .wwwrenren.com
@@ -6639,6 +6681,7 @@
 .yezhanjun.net
 .yfkjy.com
 .yhachina.com
+.yhd.com
 .yi114.com
 .yibizi.com
 .yicai.com
@@ -7082,33 +7125,6 @@
 117.27/16
 127.0.0.1
 192.168/16
+220.162.97.252
 <local>
 localhost
-.073.cc
-.25.io
-.263mail.com
-.476.cc
-.8comic.com
-.acgdb.com
-.acggate.net
-.alipaydev.com
-.amazon.cn
-.cnpmjs.org
-.com.cn
-.comicvip.com
-.ess.apple.com
-.globalmarket.com
-.ikang.com
-.ishuhui.com
-.jnupress.com
-.lagou.com
-.pic4tuku.cc
-.poco.cn
-.simcity.com
-.tbcdn.cn
-.tuku.cc
-.vip.com
-.vlook.cn
-.wangyin.com
-.wwdy.net
-.yhd.com
